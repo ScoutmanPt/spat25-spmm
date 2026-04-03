@@ -1,0 +1,120 @@
+{
+  "room": "blueroom",
+  "version": 1,
+  "objects": [
+    {
+      "name": "screen-group",
+      "x": 0,
+      "y": 0,
+      "z": 58
+    },
+    {
+      "name": "blue-desk-group",
+      "x": 0,
+      "y": 0,
+      "z": 56.2
+    },
+    {
+      "name": "screen-btn-group",
+      "x": 2.2,
+      "y": 0,
+      "z": 55.6
+    },
+    {
+      "name": "robot-pile-group",
+      "x": 6.2,
+      "y": 0,
+      "z": 55.2
+    },
+    {
+      "name": "blue-room-floating-lamp",
+      "x": 7.65,
+      "y": 1.5798,
+      "z": 55.55
+    },
+    {
+      "name": "wb1-group",
+      "x": -6.5,
+      "y": 0,
+      "z": 45.5
+    },
+    {
+      "name": "wb2-group",
+      "x": -6.5,
+      "y": 0,
+      "z": 49
+    },
+    {
+      "name": "wb3-group",
+      "x": -6.5,
+      "y": 0,
+      "z": 53
+    },
+    {
+      "name": "tool-cart-group",
+      "x": -4.8,
+      "y": 0,
+      "z": 47
+    },
+    {
+      "name": "shelf-group",
+      "x": -7.5,
+      "y": 0,
+      "z": 55.5
+    },
+    {
+      "name": "analyzer-group",
+      "x": 6.5,
+      "y": 0,
+      "z": 44.5
+    },
+    {
+      "name": "test-chamber-group",
+      "x": 5.4,
+      "y": 0,
+      "z": 46.5
+    },
+    {
+      "name": "cal-rig-group",
+      "x": 6.82,
+      "y": 0,
+      "z": 43.7
+    },
+    {
+      "name": "meas-console-group",
+      "x": 6.5,
+      "y": 0,
+      "z": 52.8
+    },
+    {
+      "name": "cable-reel-group",
+      "x": 4.5,
+      "y": 0,
+      "z": 54
+    },
+    {
+      "name": "server-a-group",
+      "x": -6.8,
+      "y": 0,
+      "z": 57.2
+    },
+    {
+      "name": "server-b-group",
+      "x": -5.2,
+      "y": 0,
+      "z": 57.2
+    },
+    {
+      "name": "pdu-group",
+      "x": -3.6,
+      "y": 0,
+      "z": 57.2
+    },
+    {
+      "name": "chiller-group",
+      "x": -7.7,
+      "y": 0,
+      "z": 57.1
+    }
+  ]
+}

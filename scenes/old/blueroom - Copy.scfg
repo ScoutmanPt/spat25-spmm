@@ -1,0 +1,366 @@
+{
+  "room": "mezzanine",
+  "version": 1,
+  "objects": [
+    {
+      "name": "coffee-group",
+      "x": 40.761,
+      "y": 0,
+      "z": 58.7488
+    },
+    {
+      "name": "mezz-floating-lamp",
+      "x": 43.2992,
+      "y": 2.2904,
+      "z": 44.526
+    },
+    {
+      "name": "spfx-group",
+      "x": 26.4595,
+      "y": 7.1202,
+      "z": 61.74
+    },
+    {
+      "name": "painting-collabdays-portugal",
+      "x": 25.687,
+      "y": 4.851,
+      "z": 38.22
+    },
+    {
+      "name": "painting-communitydays",
+      "x": 33.701,
+      "y": 4.794,
+      "z": 38.22
+    },
+    {
+      "name": "painting-euro-collab-summit",
+      "x": 30.269,
+      "y": 5.364,
+      "z": 38.22
+    },
+    {
+      "name": "painting-espc",
+      "x": 30.189,
+      "y": 3.107,
+      "z": 38.22
+    },
+    {
+      "name": "painting-m365conf",
+      "x": 33.0487,
+      "y": 2.6438,
+      "z": 38.22
+    },
+    {
+      "name": "painting-spsmuc",
+      "x": 30.385,
+      "y": 7.859,
+      "z": 38.22
+    },
+    {
+      "name": "painting-spscgn",
+      "x": 33.196,
+      "y": 7.402,
+      "z": 38.22
+    },
+    {
+      "name": "painting-spscgn-keynote",
+      "x": 36.087,
+      "y": 6.578,
+      "z": 38.22
+    },
+    {
+      "name": "plant-under-mez-1",
+      "x": 37.2357,
+      "y": 0,
+      "z": 56.202
+    },
+    {
+      "name": "plant-under-mez-2",
+      "x": 35.6285,
+      "y": 0,
+      "z": 38.9703
+    },
+    {
+      "name": "plant-under-mez-3",
+      "x": 43.7306,
+      "y": -0.1,
+      "z": 45.5432
+    },
+    {
+      "name": "blackboard-group",
+      "x": 45.84,
+      "y": 2.0417,
+      "z": 49.5154
+    },
+    {
+      "name": "teleporter-group",
+      "x": 43.4596,
+      "y": 4.3,
+      "z": 39.9831
+    },
+    {
+      "name": "arc-reactor-group",
+      "x": 35.3051,
+      "y": 0,
+      "z": 55.2128
+    },
+    {
+      "name": "ws-group-0",
+      "x": 25.5,
+      "y": 0,
+      "z": 42.5
+    },
+    {
+      "name": "ws-group-1",
+      "x": 25.5,
+      "y": 0,
+      "z": 53.5
+    },
+    {
+      "name": "ws-group-2",
+      "x": 29.7643,
+      "y": 0,
+      "z": 43.7452
+    },
+    {
+      "name": "srv-group-0",
+      "x": 45.3,
+      "y": -0.1012,
+      "z": 39.0084
+    },
+    {
+      "name": "srv-group-1",
+      "x": 45.3,
+      "y": 0,
+      "z": 43
+    },
+    {
+      "name": "srv-group-2",
+      "x": 45.3,
+      "y": 0.0162,
+      "z": 44.0525
+    },
+    {
+      "name": "srv-group-3",
+      "x": 45.3,
+      "y": 4.3779,
+      "z": 59.9535
+    },
+    {
+      "name": "srv-group-4",
+      "x": 45.3,
+      "y": 4.4429,
+      "z": 60.9234
+    },
+    {
+      "name": "ai-group-0",
+      "x": 40.7117,
+      "y": 0,
+      "z": 39.3817
+    },
+    {
+      "name": "ai-group-1",
+      "x": 42.3555,
+      "y": 0,
+      "z": 39.3406
+    },
+    {
+      "name": "ai-group-2",
+      "x": 45.5036,
+      "y": 0,
+      "z": 41.3612
+    },
+    {
+      "name": "rob-group",
+      "x": 43.9241,
+      "y": 0,
+      "z": 61.1943
+    },
+    {
+      "name": "scn-group",
+      "x": 41.2357,
+      "y": 0,
+      "z": 50.5328
+    },
+    {
+      "name": "mission-group",
+      "x": 37,
+      "y": 0,
+      "z": 61.72
+    },
+    {
+      "name": "twr-group-0",
+      "x": 45.1843,
+      "y": 0,
+      "z": 54.8661
+    },
+    {
+      "name": "twr-group-1",
+      "x": 42.0528,
+      "y": 4.3,
+      "z": 61.0457
+    },
+    {
+      "name": "pcol-group-0",
+      "x": 23.8,
+      "y": 0,
+      "z": 39.8
+    },
+    {
+      "name": "pcol-group-1",
+      "x": 45.2,
+      "y": 0,
+      "z": 39.8
+    },
+    {
+      "name": "crate-group-0",
+      "x": 37.5389,
+      "y": 0.2,
+      "z": 46.34
+    },
+    {
+      "name": "crate-group-1",
+      "x": 35.2869,
+      "y": 0.2,
+      "z": 48.4912
+    },
+    {
+      "name": "crate-group-2",
+      "x": 34.7309,
+      "y": 0.6,
+      "z": 47.6228
+    },
+    {
+      "name": "crate-group-3",
+      "x": 37.6018,
+      "y": 0.28,
+      "z": 47.7846
+    },
+    {
+      "name": "crate-group-4",
+      "x": 24.5,
+      "y": 0.2,
+      "z": 57.2
+    },
+    {
+      "name": "crate-group-5",
+      "x": 25.2,
+      "y": 0.24,
+      "z": 57.5
+    },
+    {
+      "name": "drone-0",
+      "x": 27.5,
+      "y": 2.9652,
+      "z": 44
+    },
+    {
+      "name": "drone-1",
+      "x": 34,
+      "y": 4.8959,
+      "z": 44.5
+    },
+    {
+      "name": "drone-2",
+      "x": 40.5,
+      "y": 3.4341,
+      "z": 55.5
+    },
+    {
+      "name": "drone-3",
+      "x": 26,
+      "y": 2.6713,
+      "z": 55
+    }
+  ],
+  "clones": [
+    {
+      "name": "ws-group-2-copy1",
+      "source": "ws-group-2",
+      "x": 32.5815,
+      "y": 0,
+      "z": 43.6391
+    },
+    {
+      "name": "coffee-group-copy1",
+      "source": "coffee-group",
+      "x": 41.574,
+      "y": 0,
+      "z": 58.7431
+    },
+    {
+      "name": "rob-group-copy2",
+      "source": "rob-group",
+      "x": 42.0628,
+      "y": 4.4,
+      "z": 55.5478
+    },
+    {
+      "name": "rob-group-copy1",
+      "source": "rob-group",
+      "x": 39.8903,
+      "y": 0,
+      "z": 60.4643
+    },
+    {
+      "name": "rob-group-copy1-copy2",
+      "source": "rob-group",
+      "x": 41.6959,
+      "y": 0,
+      "z": 60.9078
+    },
+    {
+      "name": "plant-under-mez-3-copy1",
+      "source": "plant-under-mez-3",
+      "x": 36.8264,
+      "y": 0,
+      "z": 49.965
+    },
+    {
+      "name": "plant-under-mez-3-copy2",
+      "source": "plant-under-mez-3",
+      "x": 35.1333,
+      "y": 0,
+      "z": 39.2365
+    },
+    {
+      "name": "plant-under-mez-3-copy3",
+      "source": "plant-under-mez-3",
+      "x": 44.6959,
+      "y": -0.1,
+      "z": 55.4382
+    },
+    {
+      "name": "plant-under-mez-3-copy4",
+      "source": "plant-under-mez-3",
+      "x": 22.51,
+      "y": -0.1,
+      "z": 56.4049
+    },
+    {
+      "name": "plant-under-mez-3-copy4-copy5",
+      "source": "plant-under-mez-3",
+      "x": 25.5585,
+      "y": 1.05,
+      "z": 60.8406
+    },
+    {
+      "name": "plant-under-mez-3-copy4-copy5-copy6",
+      "source": "plant-under-mez-3",
+      "x": 22.4573,
+      "y": 0.35,
+      "z": 61.5255
+    },
+    {
+      "name": "rob-group-copy1-copy2-copy1",
+      "source": "rob-group",
+      "x": 30.6627,
+      "y": 0,
+      "z": 52.2905
+    }
+  ],
+  "deleted": [
+    "desk-group",
+    "sharepoint-monkey"
+  ]
+}
